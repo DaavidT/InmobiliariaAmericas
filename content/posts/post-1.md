@@ -1,9 +1,10 @@
 ---
 title: "OPORTUNIDAD 3 TERRENOS JUNTOS KOMCHEN"
 date: 2022-08-23T01:00:00Z
+author: Fernando Talavera
 image: /images/post/post-1.jpg
 categories: ["Terreno", "Venta"]
-featured: false
+featured: true
 draft: false
 ---
 

@@ -2,8 +2,9 @@
 title: "CASA EN TIXCACAL OPICHEN (LA HERRADURA )"
 date: 2022-08-21T01:00:00Z
 image: /images/post/post-4.jpg
+author: Fernando Talavera
 categories: ["Casa", "Renta"]
-featured: false
+featured: true
 draft: false
 ---
 
