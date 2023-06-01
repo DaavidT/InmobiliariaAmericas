@@ -52,7 +52,7 @@ const PostSingle = ({
                       className="rounded-lg"
                     />
                   )}
-                  <ul className="absolute top-3 left-2 flex flex-wrap items-center">
+                  <ul className="absolute left-2 top-3 flex flex-wrap items-center">
                     {categories.map((tag, index) => (
                       <li
                         className="mx-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white"
@@ -115,7 +115,7 @@ const PostSingle = ({
 
         {/* Related posts */}
         <div className="container mt-20">
-          <h2 className="section-title">Related Posts</h2>
+          <h2 className="section-title">Propiedades relacionadas</h2>
           <div className="row mt-16">
             {relatedPosts.slice(0, 3).map((post, index) => (
               <div key={"post-" + index} className="mb-12 lg:col-4">

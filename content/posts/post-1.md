@@ -1,25 +1,17 @@
 ---
-title: "How to make toys from old Olarpaper"
-date: 2022-04-04T01:00:00Z
-image: /images/post/post-1.png
-categories: ["programming"]
-featured: true
+title: "OPORTUNIDAD 3 TERRENOS JUNTOS KOMCHEN"
+date: 2022-08-23T01:00:00Z
+image: /images/post/post-1.jpg
+categories: ["Terreno", "Venta"]
+featured: false
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+# OPORTUNIDAD 3 TERRENOS JUNTOS KOMCHEN
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+No te lo pierdas y aprovecha esta oportunidad de adquirir 3 terrenos juntos en Komchen, Yucatán. 3 terrenos juntos de 10 x 50 cada uno, con un total de 1,500 m2. Ubicados en la calle 19, a 2 cuadras de la carretera a Progreso. Cuenta con luz y calle blanca.
 
-## Covid-19 Situation
+![alter-text](/images/post/post-1.jpg)
+_Descripción_
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-![alter-text](/images/post/post-1.png)
-*Example Caption*
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Terreno en venta en Komchen, Yucatán. 3 terrenos juntos de 10 x 50 cada uno, con un total de 1,500 m2. Ubicados en la calle 19, a 2 cuadras de la carretera a Progreso. Cuenta con luz y calle blanca.

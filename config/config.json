@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "Inmobiliaria Americas",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
     "logo_width": "150",
-    "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_height": "100",
+    "logo_text": "InmobiliariaAmericas"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,21 +22,20 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "Empresa relacionada con la venta, renta de bienes inmuebles y terrenos de inversión",
+    "copyright": "Desarrollado por David Talavera [Daavid](https://github.com/daavidT/)"
   },
   "metadata": {
-    "meta_author": "Statichunt",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_author": "DavidTalavera",
+    "meta_description": "Desarrollador web"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": " ¡Únete a nuestra historia y descubre por qué somos la elección perfecta para tus necesidades inmobiliarias en Mérida, Yucatán!"
     },
     "featured_posts": {
-      "enable": true,
+      "enable": false,
       "title": "Blog Categories",
       "showPost": 3
     },
@@ -45,15 +44,15 @@
       "title": "Blog Categories"
     },
     "newsletter": {
-      "enable": true,
-      "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "enable": false,
+      "title": "Suscríbete a nuestro boletín",
+      "content": "Únete a nuestra lista de correos y sé el primero en recibir los nuevos inmuebles en venta y renta",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }
   },
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   }

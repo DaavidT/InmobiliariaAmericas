@@ -1,28 +1,24 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Conócenos",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Propiedades",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Categories",
+          "name": "Categorias",
           "url": "/categories"
         }
       ]
@@ -30,19 +26,19 @@
   ],
   "footer": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Conócenos",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Agenda una cita",
       "url": "/contact"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Políticas de privacidad",
       "url": "#"
     }
   ]

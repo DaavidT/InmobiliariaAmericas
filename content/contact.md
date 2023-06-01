@@ -1,20 +1,19 @@
 ---
-title: "Let’s, Talk </br> About You"
-description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+title: "Agenda gratis </br> una cita"
+phone: "999 518 6489"
+mail: "inmobiliaria.americas100@gmail.com"
+location: "Calle 100 #190 x 57 y 55D Fracc. Las Américas, Mérida, Mexico"
 form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content: +999 518 6489
+    link: tel:+999 518 6489
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: inmobiliaria.americas100@gmail.com
+    link: mailto:inmobiliaria.americas100@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: Calle 100 190 x 57 y 55D Fracc. Las Américas, Mérida, Mexico
 
 draft: false
 ---

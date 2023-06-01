@@ -26,7 +26,7 @@ const Contact = ({ data }) => {
               "h1 my-10 lg:my-11 lg:pt-11 text-center lg:text-left lg:text-[64px]"
             )}
           </div>
-          <div className="contact-form-wrapper rounded border border-border p-6 dark:border-darkmode-border lg:col-6">
+          <div className="contact-form-wrapper rounded border border-border p-6 lg:col-6 dark:border-darkmode-border">
             <h2>
               Send Us A
               <span className="ml-1.5 inline-flex items-center text-primary">
@@ -41,7 +41,7 @@ const Contact = ({ data }) => {
             >
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="name">
-                  Full name
+                  Nombre Completo
                   <small className="font-secondary text-sm text-primary">
                     *
                   </small>
@@ -50,13 +50,13 @@ const Contact = ({ data }) => {
                   className="form-input w-full"
                   name="name"
                   type="text"
-                  placeholder="Thomas Milano"
+                  placeholder=""
                   required
                 />
               </div>
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="email">
-                  Email Address
+                  Correo electronico
                   <small className="font-secondary text-sm text-primary">
                     *
                   </small>
@@ -65,13 +65,13 @@ const Contact = ({ data }) => {
                   className="form-input w-full"
                   name="email"
                   type="email"
-                  placeholder="example@gmail.com"
+                  placeholder="ejemplo@gmail.com"
                   required
                 />
               </div>
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="subject">
-                  Subject
+                  Titulo
                   <small className="font-secondary text-sm text-primary">
                     *
                   </small>
@@ -80,27 +80,27 @@ const Contact = ({ data }) => {
                   className="form-input w-full"
                   name="subject"
                   type="text"
-                  placeholder="Blog advertisement"
+                  placeholder="Propiedad en venta"
                   required
                 />
               </div>
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="message">
-                  Your Message Here
+                  Tu mensaje aquí
                   <small className="font-secondary text-sm text-primary">
                     *
                   </small>
                 </label>
                 <textarea
                   className="form-textarea w-full"
-                  placeholder="Hello I’m Mr ‘x’ from………….."
+                  placeholder="Hola, estoy interesado en la proiedad ... y me gustaría saber más"
                   rows="7"
                 />
               </div>
               <input
                 className="btn btn-primary"
                 type="submit"
-                value="Send Now"
+                value="Enviar ahora"
               />
             </form>
           </div>

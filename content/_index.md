@@ -1,27 +1,26 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title: "**¡** Invierte en tu futuro **!** "
+  title_small: "Inmobiliaria Americas"
+  content: Descubre el lugar perfecto para construir tus sueños o encontrar el hogar ideal para ti y tu familia.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/banner1.jpg
   button:
     enable: true
-    label: Know About Me
-    link: /about
+    label: Agenda una cita
+    link: /contact
     rel: ""
 
 featured_posts:
   enable: true
-  title: Featured Posts
+  title: Propiedades y terrenos destacados
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
   link: "#"
 
 recent_posts:
-  title: Recent Posts
+  title: Propiedades y terrenos recientes
   enable: true
-
 ---
